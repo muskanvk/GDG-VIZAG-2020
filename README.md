@@ -6,4 +6,4 @@ This repository contains the slides and other shareables from my session at GDG-
 ## [Link for Meetup](meet.google.com/pwt-vjvh-adv)
 
 <img src="poster.jpg">
-<img src = "invite.jpg">
+<img src = "invite.png">
